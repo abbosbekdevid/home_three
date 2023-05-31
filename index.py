@@ -1,0 +1,1 @@
+sarlavha = "Bu main brenchi boladi"
