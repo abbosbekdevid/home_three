@@ -1,3 +1,3 @@
-sarlavha = "Bu Asad brenchi boladi"
+sarlavha = "Bu Mirzabek brenchi boladi"
 
-matn = "Asad katta odam"
+matn = "Mirzabek katta odam"
